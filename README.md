@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <h2>doordash clone app</h2>
+  <h2>Doordash clone app</h2>
   <i>The food delivery and order management system for the future.</i>
  <br/>
 <br />

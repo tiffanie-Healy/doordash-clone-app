@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <h2>Doordash clone app</h2>
+  <h2>Doordash Clone App</h2>
   <i>The food delivery and order management system for the future.</i>
  <br/>
 <br />
@@ -53,7 +53,7 @@
 
 <br>
 
-The doordash clone app is perfect for customers looking to deploy a readymade and easy to use food ordering platform for their own food delivery and logistics business. Just like foodpanda and ubereats, our food delivery system can incorporate multiple restaurants as well as restaurants that operate in multiple locations. With access to the admin panel and separate applications for customers and riders, you can use this solution to create your own online food ordering and order/delivery management system instantaneously.
+The Doordash clone app is perfect for customers looking to deploy a readymade and easy to use food ordering platform for their own food delivery and logistics business. Just like foodpanda and ubereats, our food delivery system can incorporate multiple restaurants as well as restaurants that operate in multiple locations. With access to the admin panel and separate applications for customers and riders, you can use this solution to create your own online food ordering and order/delivery management system instantaneously.
 
 Our solution is open source but the backend and API are proprietary, and can be obtained via paid license.
 
@@ -83,9 +83,9 @@ Our solution is open source but the backend and API are proprietary, and can be 
 
 Our food delivery system also comes with the following:
 
-- doordash clone app Customer App
-- doordash clone app Rider App
-- doordash clone app Restaurant App
+- Doordash Clone Customer App
+- Doordash Clone Rider App
+- Doordash Clone Restaurant App
 - Customer Food Ordering Website
 - Admin Web Dashboard
 - Application ProgramInterface Server
@@ -197,7 +197,7 @@ NOTE: Email provider has been only been tested for gmail accounts
 
 ## :book: Documentation <a id="heading-8"></a>
 
-Find the link for the complete documentation of the doordash clone app [here](https://enatega.com/multivendor-documentation/).
+Find the link for the complete documentation of the Doordash Clone App [here](https://enatega.com/multivendor-documentation/).
 
 ## :tv: Demo Videos: <a id="heading-14"></a>
 
@@ -227,4 +227,4 @@ The frontend source code for our solution is completely open source. However, th
 
 ## :mailbox_with_mail: Contact Us: <a id="heading-13"></a>
 
-[Check out the Product Page and Pricing and more for doordash clone app](https://enatega.com/?utm_source=github&utm_medium=repo&utm_campaign=tiffanie-doordash-clone)
+[Check out the Product Page and Pricing and more for Doordash Clone App](https://enatega.com/?utm_source=github&utm_medium=repo&utm_campaign=tiffanie-doordash-clone-app)

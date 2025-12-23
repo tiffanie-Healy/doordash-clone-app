@@ -1,3 +1,3 @@
 <h2 style="text-align:center">Doordash Clone App</h2><br/><br/>
-
-![doordash clone app](https://admin.ninjascode.com/wp-content/uploads/2025/repoImages/tiffanie/9.webp) <br/><br/>The doordash clone app frontend source code for our solution is completely open source. However, the API and backend is proprietary and can be accessed via a paid license. For more details, <a href="https://enatega.com/?utm_source=github&utm_medium=repo&utm_campaign=tiffanie-doordash-clone-app" target="_blank">click here.</a>
+ 
+ ![doordash clone app](https://admin.ninjascode.com/wp-content/uploads/2025/repoImages/tiffanie/9.webp) <br/><br/>The doordash clone app frontend source code for our solution is completely open source. However, the API and backend is proprietary and can be accessed via a paid license. For more details, <a href="https://enatega.com/tiffanie-doordash-clone-app" target="_blank">click here.</a>
